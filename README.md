@@ -19,3 +19,5 @@ web category:
 file overflow
 wide open doors
 anyfile
+
+We had to close all above mentioned vulnerabilities and keep them patched and secured as long as possible. XP scores did rise up accordingly
